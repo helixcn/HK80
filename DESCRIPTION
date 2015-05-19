@@ -1,0 +1,12 @@
+Package: HK80
+Type: Package
+Title: Conversion Tools for HK80 Geographical Coordinate System
+Version: 0.0.1
+Date: 2014-03-13
+Authors@R: person("Jinlong", "Zhang", role = c("aut", "cre"),
+		     email = "jinlongzhang01@gmail.com")
+Author: Jinlong Zhang [aut, cre]
+Description: Conversion and Reverse Conversion between WGS84UTM, WGS84GEO, HK80UTM, HK80GEO and HK1980GRID Coordinate Systems. 
+License: GPL-2
+URL: https://github.com/helixcn/
+
