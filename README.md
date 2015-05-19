@@ -1,5 +1,4 @@
 #R package HK80
-##Generating Herbarium Labels in RTF or LaTeX
 
 HK80 is an R package, to install it, please use the following command in R:
 
