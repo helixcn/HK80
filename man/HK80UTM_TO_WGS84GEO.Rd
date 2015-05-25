@@ -32,7 +32,7 @@ This function converts the HK80UTM coordinates into WGS84UTM coordinates first, 
 \references{
 Survey & Mapping Office Lands Department, Hong Kong Government (1995). 
 Explanatory Notes on Geodetic Datums in Hong Kong, available at: 
-http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf
+\url{http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf}
 }
 
 \author{
@@ -48,7 +48,7 @@ The coordinates should be within the range of Hong Kong. Providing coordinates o
 }
 \examples{
 #### The similar conversion is not available 
-#### at http://www.geodetic.gov.hk/smo/tform/tform.aspx
+#### at \url{http://www.geodetic.gov.hk/smo/tform/tform.aspx}
 #### Therefore, its accuracy is unknown.
 options(digits = 15)
 HK80UTM_TO_WGS84GEO(N = 2471279, E = 205494, zone = 50)

@@ -18,7 +18,7 @@ Numeric, longitude in decimal format.
 }
 }
 \details{
-Using equation (1) to (3) in the explanatory Note within this package. The document is available at : http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf
+Using equation (1) to (3) in the explanatory Note within this package. The document is available at : \url{http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf
 }
 \value{
 A list including the HK80UTM Coordinates, including:
@@ -27,7 +27,7 @@ N, E, and Zone.
 \references{
 Survey & Mapping Office Lands Department, Hong Kong Government (1995). 
 Explanatory Notes on Geodetic Datums in Hong Kong, available at: 
-http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf
+\url{http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf}
 }
 \author{
 Jinlong Zhang

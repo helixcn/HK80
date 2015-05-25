@@ -29,7 +29,7 @@ This function converts the coordinates to HK80GEO first, and convert the later t
 \references{
 Survey & Mapping Office Lands Department, Hong Kong Government (1995). 
 Explanatory Notes on Geodetic Datums in Hong Kong, available at: 
-http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf
+\url{http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf}
 }
 
 \author{
@@ -53,7 +53,7 @@ HK1980GRID_TO_WGS84GEO(820351.389, 832591.320)
 #### [1] 114.141179433862
 
 ####  Answer from the online conversion tool
-####  http://www.geodetic.gov.hk/smo/tform/tform.aspx
+####  \url{http://www.geodetic.gov.hk/smo/tform/tform.aspx}
 ####  22.322172084 	114.141187917
 }
 

@@ -34,7 +34,7 @@ This function converts the coordinates to WGS84GO, and then to HK80GO and eventu
 \references{
 Survey & Mapping Office Lands Department, Hong Kong Government (1995). 
 Explanatory Notes on Geodetic Datums in Hong Kong, available at: 
-http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf
+\url{http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf}
 }
 \author{
 Jinlong Zhang
@@ -57,7 +57,7 @@ WGS84UTM_TO_HK1980GRID(2471279, 205494, zone = 50)
 #### [1] 832591.689923123
 
 ######################
-#### Results from http://www.geodetic.gov.hk/smo/tform/tform.aspx
+#### Results from \url{http://www.geodetic.gov.hk/smo/tform/tform.aspx}
 #### 820351.389 	832591.320
 
 }

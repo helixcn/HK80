@@ -33,7 +33,7 @@ This function converts the HK1980GRID coordinates to HK80 geographical coordinat
 \references{
 Survey & Mapping Office Lands Department, Hong Kong Government (1995). 
 Explanatory Notes on Geodetic Datums in Hong Kong, available at: 
-http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf
+\url{http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf}
 }
 
 \author{
@@ -63,7 +63,7 @@ HK1980GRID_TO_WGS84UTM(820351.389, 832591.320)
 
 ######################################
 #### Answer from the online Conversion tool
-#### http://www.geodetic.gov.hk/smo/tform/tform.aspx
+#### \url{http://www.geodetic.gov.hk/smo/tform/tform.aspx}
 #### 50Q 	2471279 	205494
 
 }

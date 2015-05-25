@@ -29,7 +29,7 @@ Maintainer: Jinlong Zhang <jinlongzhang01@gmail.com>
 \references{
 Survey and Mapping Office Lands Department, Hong Kong Government (1995).
 Explanatory Notes on Geodetic Datums in Hong Kong, available at:
-http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf
+\url{http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf}
 }
 
 \keyword{ package }
@@ -48,7 +48,7 @@ HK1980GRID_TO_WGS84UTM(820351.389, 832591.320)
 #### [1] 50
 
 #### Answer from the online conversion tool
-#### at: http://www.geodetic.gov.hk/smo/tform/tform.aspx
+#### at: \url{http://www.geodetic.gov.hk/smo/tform/tform.aspx}
 #### 2471279, 205494
 
 }

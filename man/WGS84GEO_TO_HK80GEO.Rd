@@ -30,7 +30,7 @@ This function uses the simplified relationship between WGS84GEO and HK80GEO. See
 \references{
 Survey & Mapping Office Lands Department, Hong Kong Government (1995). 
 Explanatory Notes on Geodetic Datums in Hong Kong, available at: 
-http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf
+\url{http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf}
 }
 \author{
 Jinlong Zhang
@@ -52,7 +52,7 @@ WGS84GEO_TO_HK80GEO(22.322172084,  	114.141187917)
 #### [1] 114.138743472556
 
 #### Answer from the online conversion tool
-#### http://www.geodetic.gov.hk/smo/tform/tform.aspx
+#### \url{http://www.geodetic.gov.hk/smo/tform/tform.aspx
 #### 22.323701767,  114.138734989
 
 }

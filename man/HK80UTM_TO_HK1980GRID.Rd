@@ -32,7 +32,7 @@ This function converts the coordinates to HK80GEO first, and convert the interme
 \references{
 Survey & Mapping Office Lands Department, Hong Kong Government (1995). 
 Explanatory Notes on Geodetic Datums in Hong Kong, available at: 
-http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf
+\url{http://www.geodetic.gov.hk/smo/gsi/data/pdf/explanatorynotes.pdf}
 }
 \author{
 Jinlong Zhang
@@ -47,7 +47,7 @@ The coordinates should be within the range of Hong Kong. Providing coordinates o
 \examples{
 
 #### The similar conversion is not available at 
-#### http://www.geodetic.gov.hk/smo/tform/tform.aspx
+#### \url{http://www.geodetic.gov.hk/smo/tform/tform.aspx}
 #### The accuracy is unknown
 options(digits = 15)
 HK80UTM_TO_HK1980GRID(N = 2471279, E = 205494, zone = 50)
