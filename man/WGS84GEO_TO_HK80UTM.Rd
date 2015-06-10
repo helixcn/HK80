@@ -20,7 +20,8 @@ longitude in decimal degrees
 }
 }
 \details{
-This function first converts the WGS84GEO coordinates to WGS84UTM, and then converts the corresponding WGS84UTM coordinates to HK80UTM. 
+This function first converts the WGS84GEO coordinates to WGS84UTM, and 
+then converts the corresponding WGS84UTM coordinates to HK80UTM. 
 }
 \value{
 
@@ -38,7 +39,8 @@ Explanatory Notes on Geodetic Datums in Hong Kong, available at:
 Jinlong Zhang
 }
 \note{
-The coordinates should be within the range of Hong Kong. Providing coordinates outside Hong Kong will lead to wrong results.
+The coordinates should be within the range of Hong Kong. Providing 
+coordinates outside Hong Kong will lead to wrong results.
 }
 
 \seealso{
@@ -46,7 +48,7 @@ The coordinates should be within the range of Hong Kong. Providing coordinates o
 }
 \examples{
 #### The similar conversion is not available at 
-#### \url{http://www.geodetic.gov.hk/smo/tform/tform.aspx
+#### http://www.geodetic.gov.hk/smo/tform/tform.aspx
 #### Therefore it the output has not been verified.
 options(digits = 15)
 WGS84GEO_TO_HK80UTM(22.322172084, 114.141187917)

@@ -20,7 +20,9 @@ Numeric, Eastern coordinate in meters
 }
 }
 \details{
-This function uses equation 3, 4, 5 to convert the HK1980GRID coordinates into HK80GEO coordinates. More details could be found on the explanatory notes Page C9. 
+This function uses equation 3, 4, 5 to convert the HK1980GRID 
+coordinates into HK80GEO coordinates. More details could be found 
+on the explanatory notes Page C9. 
 }
 \value{
 \item{latitude }{latitude in decimal degrees}

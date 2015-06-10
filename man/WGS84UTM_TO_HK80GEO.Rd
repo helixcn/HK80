@@ -57,7 +57,7 @@ WGS84UTM_TO_HK80GEO(2471279, 205494, zone = 50)
 #### $longitude
 #### [1] 114.138738570444
 
-#### Results from \url{http://www.geodetic.gov.hk/smo/tform/tform.aspx}
+#### Results from http://www.geodetic.gov.hk/smo/tform/tform.aspx
 #### 22.323701767
 #### 114.138734989
 

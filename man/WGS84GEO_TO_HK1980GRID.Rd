@@ -21,7 +21,8 @@ longitude in decimal degrees
 }
 
 \details{
-This function convert the latitude and longitude to HK80GEO coordinates first, and converts the later to HK1980GRID coordinates. 
+This function convert the latitude and longitude to HK80GEO coordinates 
+first, and converts the later to HK1980GRID coordinates. 
 }
 
 \value{
@@ -39,7 +40,8 @@ Jinlong Zhang
 }
 
 \note{
-The coordinates should be within the range of Hong Kong. Providing coordinates outside Hong Kong will lead to wrong results.
+The coordinates should be within the range of Hong Kong. 
+Providing coordinates outside Hong Kong will lead to wrong results.
 }
 
 \seealso{
@@ -56,7 +58,7 @@ HK1980GRID_TO_WGS84GEO(820351.389, 832591.320)
 ### [1] 114.141179433862
 
 ### Answer from the online conversion tool
-### \url{http://www.geodetic.gov.hk/smo/tform/tform.aspx }
+### http://www.geodetic.gov.hk/smo/tform/tform.aspx
 ### 22.322172084
 ### 114.141187917
 

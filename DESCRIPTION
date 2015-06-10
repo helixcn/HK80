@@ -6,6 +6,7 @@ Date: 2014-03-13
 Authors@R: person("Jinlong", "Zhang", role = c("aut", "cre"),
 		     email = "jinlongzhang01@gmail.com")
 Author: Jinlong Zhang [aut, cre]
+Maintainer: Jinlong Zhang <jinlongzhang01@gmail.com>
 Description: Conversion and Reverse Conversion between WGS84UTM, WGS84GEO, HK80UTM, HK80GEO and HK1980GRID Coordinate Systems. 
 License: GPL-2
 URL: https://github.com/helixcn/

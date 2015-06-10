@@ -21,7 +21,10 @@ Numeric, Eastern coordinate in meters
 }
 
 \details{
-This function converts the HK1980GRID coordinates to HK80 geographical coordinates (latitude and longitude ) first, and then converts the later to HK80UTM coordinates, and eventually converts the HK80UTM coordinates to WGS84UTM. 
+This function converts the HK1980GRID coordinates to HK80 geographical 
+coordinates (latitude and longitude ) first, and then converts the 
+later to HK80UTM coordinates, and eventually converts the HK80UTM 
+coordinates to WGS84UTM. 
 }
 
 \value{
@@ -41,7 +44,8 @@ Jinlong Zhang
 }
 
 \note{
-The coordinates should be within the range of Hong Kong. Providing coordinates outside Hong Kong will lead to wrong results.
+The coordinates should be within the range of Hong Kong. Providing 
+coordinates outside Hong Kong will lead to wrong results.
 }
 
 \seealso{
@@ -63,7 +67,7 @@ HK1980GRID_TO_WGS84UTM(820351.389, 832591.320)
 
 ######################################
 #### Answer from the online Conversion tool
-#### \url{http://www.geodetic.gov.hk/smo/tform/tform.aspx}
+#### http://www.geodetic.gov.hk/smo/tform/tform.aspx
 #### 50Q 	2471279 	205494
 
 }

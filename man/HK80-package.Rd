@@ -17,7 +17,8 @@ Date: \tab 2014-03-13\cr
 License: \tab GPL-2\cr
 }
 This package contains conversion tools for the following coordinate systems: 
-WGS84UTM, WGS84GEO, HK80UTM, HK80GEO, HK1980GRID, following the algorithms described in the explanatory note by Survey and Mapping Office Lands Department, Hong Kong Government (1995). 
+WGS84UTM, WGS84GEO, HK80UTM, HK80GEO, HK1980GRID, following the algorithms 
+described in the explanatory note by Survey and Mapping Office Lands Department, Hong Kong Government (1995). 
 }
 \author{
 
@@ -48,7 +49,7 @@ HK1980GRID_TO_WGS84UTM(820351.389, 832591.320)
 #### [1] 50
 
 #### Answer from the online conversion tool
-#### at: \url{http://www.geodetic.gov.hk/smo/tform/tform.aspx}
+#### at: http://www.geodetic.gov.hk/smo/tform/tform.aspx
 #### 2471279, 205494
 
 }

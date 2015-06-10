@@ -41,7 +41,8 @@ Explanatory Notes on Geodetic Datums in Hong Kong, available at:
 Jinlong Zhang
 }
 \note{
-The coordinates should be within the range of Hong Kong. Providing coordinates outside Hong Kong will lead to wrong results.
+The coordinates should be within the range of Hong Kong. 
+Providing coordinates outside Hong Kong will lead to wrong results.
 }
 
 \seealso{
@@ -50,7 +51,7 @@ The coordinates should be within the range of Hong Kong. Providing coordinates o
 \examples{
 #### This function was not tested since similar 
 #### conversion service is not available at 
-#### \url{http://www.geodetic.gov.hk/smo/tform/tform.aspx}
+#### http://www.geodetic.gov.hk/smo/tform/tform.aspx
 options(digits = 15)
 HK80UTM_TO_WGS84UTM(N = 2471279, E = 205494, zone = 50)
 }

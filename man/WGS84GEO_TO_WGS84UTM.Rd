@@ -36,10 +36,9 @@ Explanatory Notes on Geodetic Datums in Hong Kong, available at:
 Jinlong Zhang
 }
 \note{
-The coordinates should be within the range of Hong Kong. Providing coordinates outside Hong Kong will lead to wrong results.
+The coordinates should be within the range of Hong Kong. Providing 
+coordinates outside Hong Kong will lead to wrong results.
 }
-
-
 
 \seealso{
 \code{\link{WGS84UTM_TO_WGS84GEO}}
@@ -66,7 +65,7 @@ WGS84GEO_TO_WGS84UTM(22 + 26/60 + 1.26/3600, 114 + 10/60 + 29.31/3600)
 ### 209194m 
  
 ### Answer from 
-### \url{http://www.geodetic.gov.hk/smo/tform/tform.aspx }
+### http://www.geodetic.gov.hk/smo/tform/tform.aspx
 ### 2483568m N
 ### 209192m E
 
