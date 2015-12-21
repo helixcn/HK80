@@ -7,12 +7,14 @@ It is an R package for converting HK80 (Hong Kong 1980 geographical coordinating
 
 ### How to install: 
 If you are using Windows, install R from a CRAN mirror:
-`(https://cran.r-project.org/mirrors.html/)[https://cran.r-project.org/mirrors.html]`
+
+[https://cran.r-project.org/mirrors.html](https://cran.r-project.org/mirrors.html/)
 
 For example:
-`(http://cran.csie.ntu.edu.tw/bin/windows/)[http://cran.csie.ntu.edu.tw/bin/windows/]`
 
-From Start > Program Files > Rgui
+[http://cran.csie.ntu.edu.tw/bin/windows/](http://cran.csie.ntu.edu.tw/bin/windows/)
+
+From Start > Program Files > RGui
 
 you can type the R code from the command line.
 
@@ -75,5 +77,5 @@ To see the help of each function, please type
 
 To run the example of the corresponding function, copy the R code in the Example section of each help page to the R command Line.
 
-### Questions, Comments or suggestions
+### Questions, Comments or Suggestions:
 Feel free to send an email regarding to this package to **Jinlong Zhang** <jinlongzhang01@gmail.com> 
