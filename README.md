@@ -8,7 +8,7 @@ It is an R package for converting HK80 (Hong Kong 1980 geographical coordinating
 ### How to install: 
 If you are using Windows, install R from a CRAN mirror:
 
-[https://cran.r-project.org/mirrors.html](https://cran.r-project.org/mirrors.html/)
+[https://cran.r-project.org/mirrors.html](https://cran.r-project.org/mirrors.html)
 
 For example:
 
