@@ -1,8 +1,8 @@
-##vWelcome to the Homepage of HK80.
+##Welcome to the Homepage of HK80
 
 ###  What is it?
 
-It is an R package for converting HK80 (Hong Kong 1980 geographical coordinating system) to WGS84 and UTM coordinate systems. 
+It is an R package for converting HK80 (Hong Kong 1980 geographical coordinating system) to WGS84 and UTM coordinating systems and vice versa. 
 
 
 ### How to install: 
@@ -21,7 +21,7 @@ to install the package, type the following code to command line:
 ```R
 install.packages("HK80")
 ```
-or install from github
+or install the most updated version from github
 
 ```R
 library(devtools)
@@ -73,7 +73,7 @@ To see the help of each function, please type
 ?WGS84GEO_TO_HK80UTM
 ```
 
-To run the example of the corresponding function, just copy the R code in the Example section to the R command Line.
+To run the example of the corresponding function, copy the R code in the Example section of each help page to the R command Line.
 
 ### Questions, Comments or suggestions
-Feel free to send me an email regarding to the usage of this package to **Jinlong Zhang** <jinlongzhang01@gmail.com> 
+Feel free to send an email regarding to this package to **Jinlong Zhang** <jinlongzhang01@gmail.com> 
