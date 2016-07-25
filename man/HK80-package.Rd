@@ -8,17 +8,16 @@ Conversion Tools for HK80 Geographical Coordinate System
 \description{
 Conversion and Reverse Conversion between HK80 Geographical Coordinate System and WGS84 based Geographical Coordinate Systems. 
 }
+
 \details{
 \tabular{ll}{
 Package: \tab HK80\cr
 Type: \tab Package\cr
-Version: \tab 0.0.1\cr
-Date: \tab 2014-03-13\cr
+Version: \tab 0.0.2\cr
+Date: \tab 2016-07-26\cr
 License: \tab GPL-2\cr
 }
-This package contains conversion tools for the following coordinate systems: 
-WGS84UTM, WGS84GEO, HK80UTM, HK80GEO, HK1980GRID, following the algorithms 
-described in the explanatory note by Survey and Mapping Office Lands Department, Hong Kong Government (1995). 
+This package provides functions for converting the coordinates between WGS84UTM, WGS84GEO, HK80UTM, HK80GEO and HK1980GRID Coordinate Systems used in Hong Kong SAR, based on the algorithms described in Explanatory Notes on Geodetic Datums in Hong Kong by Survey and Mapping Office Lands Department, Hong Kong Government (1995).
 }
 \author{
 
@@ -27,6 +26,7 @@ Jinlong Zhang
 Maintainer: Jinlong Zhang <jinlongzhang01@gmail.com>
 
 }
+
 \references{
 Survey and Mapping Office Lands Department, Hong Kong Government (1995).
 Explanatory Notes on Geodetic Datums in Hong Kong, available at:

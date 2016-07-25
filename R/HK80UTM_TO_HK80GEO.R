@@ -63,6 +63,6 @@ function(N, E, zone = c(49, 50)){
     #### Equation 5.
     phi = phi_rou - (t_rou/(m0*rou_rou))*(delta_E^2/(2*m0*(niu_rou)))
     
-    res <- list(latitude = phi*(180/pi), longitude = lambda*(180/pi))
+    res <- data.frame(latitude = phi*(180/pi), longitude = lambda*(180/pi))
     return(res)
 }

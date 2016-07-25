@@ -51,7 +51,6 @@ coordinates outside Hong Kong will lead to wrong results.
 ##### the conversion is not available on the manual nor online.
 options(digits = 15)
 HK1980GRID_TO_HK80UTM(832699, 836055)
-
 }
 
 \keyword{ HK1980GRID }

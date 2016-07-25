@@ -35,7 +35,7 @@ function(latitude, longitude){
     N = N0 + m0*((M - M0) + niu_s*(sin(phi))*((lambda - lambda0)^2/2)*(cos(phi)))
     #### Eq. 2
     E = E0 + m0*(niu_s*(lambda - lambda0)*cos(phi) + niu_s*((lambda - lambda0)^3/6)*(cos(phi)^3)*(psi_s - tan(phi)^2))
-    res <- list(N, E, zone)
-    names(res) <- c("N", "E", "zone")
+    res <- data.frame(N, E, zone)
+    colnames(res) <- c("N", "E", "zone")
     return(res)
 }

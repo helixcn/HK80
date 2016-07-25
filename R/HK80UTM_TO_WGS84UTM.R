@@ -9,5 +9,5 @@ function(N, E, zone = c(49, 50)){
         res.N <- N - 205
         res.E <- E + 260
     }
-    return(list(N = res.N, E = res.E, zone = zone))
+    return(data.frame(N = res.N, E = res.E, zone = zone))
 }

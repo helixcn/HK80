@@ -10,10 +10,6 @@ If you are using Windows, install R from a CRAN mirror:
 
 [https://cran.r-project.org/mirrors.html](https://cran.r-project.org/mirrors.html)
 
-For example:
-
-[http://cran.csie.ntu.edu.tw/bin/windows/](http://cran.csie.ntu.edu.tw/bin/windows/)
-
 From Start > Program Files > RGui
 
 you can type the R code from the command line.
