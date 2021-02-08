@@ -2,15 +2,15 @@
 
 ###  What is it?
 
-It is an R package for converting HK80 (Hong Kong 1980 geographical coordinating system) to WGS84 and UTM coordinating systems and vice versa. 
+It is an R package for converting HK80 (Hong Kong 1980 geographical coordinating system) to WGS84, the UTM coordinating system and vice versa.
 
 
-### How to install: 
+### How to install:
 If you are using Windows, install R from a CRAN mirror:
 
 [https://cran.r-project.org/mirrors.html](https://cran.r-project.org/mirrors.html)
 
-From Start > Program Files > RGui
+From `Start > Program Files > RGui`
 
 you can type the R code from the command line.
 
@@ -23,7 +23,7 @@ or install the most updated version from github
 
 ```R
 library(devtools)
-install_github("helixcn/HK80")
+install_github("helixcn/HK80", build_vignettes = TRUE)
 ```
 
 ### How to use? 
